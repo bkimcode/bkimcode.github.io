@@ -10,6 +10,7 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/JS-usage.png">
+
 ## JavaScript and high-level programming languages
 
 Learning high-level programming languages such as JavaScript or Python are great ways to get started with programming because their syntax is much easier to write, understand, and implement. In the past only knowing these programming languages was often frowned upon because of their lack of scalability, poor memory efficiency, and lack of data structures. This is especially true in academics where many programming fundamentals are taught using lower-level programming languages such as C, C++, and Java. Although learning lower-level languages can be beneficial does it have to be this way? With how much high-level languages have evolved coupled with the ridiculous amounts of storage and speed avaialable on modern computers. Is it possible to get by with only knowing JavaScript?
