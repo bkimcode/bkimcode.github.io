@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Can you really perform if you don't go by the "script"?"
+title: "Can you really perform if you don't go by the script?"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-31
 published: true
