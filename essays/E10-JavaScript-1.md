@@ -18,7 +18,7 @@ Learning high-level programming languages such as JavaScript or Python are great
 ##  Viability of JavaScript today
 
 As far as web programming is concerned JavaScript might be one of the most if not the most important tool for managing webpage behavior. Infact according to a survey performed by w3tech:
->*JavaScript is used as client-side programming language by 98.0% of all the websites* <sub>https://w3techs.com/technologies/details/cp-javascript/</sub>
+*JavaScript is used as client-side programming language by 98.0% of all the websites* <sub>https://w3techs.com/technologies/details/cp-javascript/</sub>
 Outside of web programming, usage of JavaScript is still very prevalant which is due to how well it has evolved and adapted over time. On conception, JavaScript could only be used with webpages and thus was viewed as Scripting Language. But with the creation of runtime systems such as Node.js and development into a multi-paradigm programming language. JavaScript was able to go beyond webpages with integration in popular applications such as Adobe Acrobat and even embedded systems <sub>https://www.espruino.com/</sub>.  
 
 ## Applications of JavaScript in Software Engineering, Athletic SE/WODS 
