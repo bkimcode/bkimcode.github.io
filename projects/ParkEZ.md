@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/ParkEZ_logo.jpeg
 title: "ParkEZ"
 date: 2019
 published: true
@@ -19,7 +19,6 @@ Finding parking on campus can be extremely inconvenient and frustrating, especia
 Through the Park-EZ app, students will be able to easily identify whether certain lots are full and even get recommendations for areas to park by taking into consideration their destination. This will be done by transmitting data from sensors placed on each parking stall in student lots that detect if a car is parked in a spot, and for how long.
 
 
-To give you a flavor of the game, here is an excerpt from one run:
 
 <hr>
 
