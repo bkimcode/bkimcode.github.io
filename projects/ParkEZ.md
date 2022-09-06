@@ -12,7 +12,7 @@ labels:
 summary: "Parking app developed in a team with Cong Nguyen for CSC 599 project (Creighton)."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/ParkEZ-header.png">
 
 Finding parking on campus can be extremely inconvenient and frustrating, especially when there are no ways to know whether or not a particular lot is full. This can lead to students spending unnecessary time searching through lots that may already be full which can lead to students arriving late to class. 
 
