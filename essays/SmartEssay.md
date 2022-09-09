@@ -112,7 +112,7 @@ thankyou for providing a reasonable level of detail - Pg version, pg package typ
 Craig Ringer
  Mar 19, 2013 at 23:40
 ```
-As you can see from this post, the author provides relevant information in the title even applying the "object-deviation" naming convention for the subject of the question. He is polite in his approach and lists chronologically the steps and approaches he's taken for solving the problem along with relevant console outputs. It's also worth noting that the indivdual came back to the post AFTER he resolved his issue to provide an update on what he did to solve the problem to provide closure for those that provided answers are experiencing the same problem.
+As you can see from this post, the author provides relevant information in the title even applying the "object-deviation" naming convention for the subject of the question. He is polite in his approach and lists chronologically the steps and approaches he's taken for solving the problem along with relevant console outputs. It's also worth noting that the indivdual came back to the post AFTER he resolved his issue to provide an update on what he did to solve the problem to provide closure for those that provided answers, and for those that are experiencing the same problem.
 ```
 The key part of the error is:
 
