@@ -150,3 +150,6 @@ For those that come after, I permanently fixed this by editing .bash_profile in 
 stewartm
 Mar 20, 2013 at 2:57
 ```
+## Main Takeaways
+
+Before reading the [*How To Ask Questions The Smart Way*](http://www.catb.org/esr/faqs/smart-questions.html) document, I always assumed that the stackoverflow community contained *elitist* based on some of the rude response I would see to questions of people asking for help. But this reading has opened my eyes to what it's like on the flip side of the coin. The truth is that in 99.9% of situations when authors provide rude/blunt responses its not that they think the user is stupid. It's because they can tell that the user hasn't put very much effort into solving the problem themselves. In those cases if the user had provided goals, chronologically listed what resources/approaches they've used, and added adequate relevant data about the problem; many authors would be more than willing to help. 
