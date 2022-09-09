@@ -19,7 +19,7 @@ Asking a smart question can be the difference between receiving helpful answers 
 
 ## Example of a Luser
 
-Even if you are well intentioned, if you put no effort into the question you are asking, people answering will put little to no effort in providing a answer. An example of this can be seen on [this](https://stackoverflow.com/questions/73655156/hello-guys-please-i-need-some-help-from-someone) stackoverflow question where the user is asking:
+Even if you are well intentioned, if you put no effort into the question you are asking, people answering will put little to no effort in providing a answer. An example can be seen on [this](https://stackoverflow.com/questions/73655156/hello-guys-please-i-need-some-help-from-someone) stackoverflow question where the user is asking:
 ```
 Question: hello guys, please i need some help from someone? [closed]
 
