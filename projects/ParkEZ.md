@@ -22,13 +22,4 @@ and the parameters of the choice they would like to access. Based on the choices
 
 Working on this project gave me a good sense of how much time/resources are needed to make great apps. I was too ambitious with my initial idea and was unable to implement multiple features that I had planned on implementing. I learned valuable collaboration skills as this was the first project where I was synchronously working with another individual on the same project, but on different parts. This forced me to find effective ways to communicate what I was trying to develop, and find ways to connect my partners development with my own.
 
-
-
-
-<hr>
-
-
-
-<hr>
-
-Source: <a href="https://github.com/bkimcode/bkimcode.github.io/blob/main/projects/ParkEZ.zip"></a>
+Source: [ParkEz](https://github.com/bkimcode/bkimcode.github.io/blob/main/projects/ParkEZ.zip)
