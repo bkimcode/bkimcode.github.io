@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Matchmatch_logo.png
+image: img/Matchmatch-logo.png
 title: "MatchMatch"
 date: 2018
 published: true
