@@ -19,7 +19,7 @@ Asking a smart question can be the difference between receiving helpful answers 
 
 ## Example of a Luser
 
-Even if you are well intentioned, if you put no effort into the question you are asking, people answering will put little to no effort in providing a answer. An example can be seen on [this](https://stackoverflow.com/questions/73655156/hello-guys-please-i-need-some-help-from-someone) stackoverflow question where the user is asking:
+Even if you are well-intentioned, if you put no effort into the question you are asking, people answering will put little to no effort in providing a answer. An example can be seen on [this](https://stackoverflow.com/questions/73655156/hello-guys-please-i-need-some-help-from-someone) stackoverflow question where the user is asking:
 ```
 Question: hello guys, please i need some help from someone? [closed]
 
@@ -112,7 +112,7 @@ thankyou for providing a reasonable level of detail - Pg version, pg package typ
 Craig Ringer
  Mar 19, 2013 at 23:40
 ```
-As you can see from this post, the author provides relevant information in the title even applying the "object-deviation" naming convention for the subject of the question. He is polite in his approach and lists chronologically the steps and approaches he's taken for solving the problem along with relevant console outputs. It's also worth noting that the indivdual came back to the post AFTER he resolved his issue to provide an update on what he did to solve the problem to provide closure for those that provided answers, and for those that are experiencing the same problem.
+As you can see from this post, the author provides relevant information in the title even applying the "object-deviation" naming convention for the subject of the question. He is polite in his approach and lists chronologically the steps and approaches he's taken for solving the problem along with relevant console outputs. It's also worth noting that the individual came back to the post AFTER he resolved his issue to provide an update on what he did to solve the problem to provide closure for those that provided answers, and for those that are experiencing the same problem.
 ```
 The key part of the error is:
 
@@ -152,4 +152,4 @@ Mar 20, 2013 at 2:57
 ```
 ## Main Takeaways
 
-Before reading the [*How To Ask Questions The Smart Way*](http://www.catb.org/esr/faqs/smart-questions.html) document, I always assumed that the stackoverflow community contained *elitist* based on some of the rude response I would see to questions of people asking for help. But this reading has opened my eyes to what it's like on the flip side of the coin. The truth is that in 99.9% of situations when authors provide rude/blunt responses its not that they think the user is stupid. It's because they can tell that the user hasn't put very much effort into solving the problem themselves. In those cases if the user had provided goals, chronologically listed what resources/approaches they've used, and added adequate relevant data about the problem; many authors would be more than willing to help. 
+Before reading the [*How To Ask Questions The Smart Way*](http://www.catb.org/esr/faqs/smart-questions.html) document, I always assumed that the stackoverflow community contained *elitist* based on the rude responses I would see to questions of people asking for help. But this reading has opened my eyes to what it's like on the flip side of the coin. The truth is that in 99.9% of situations when authors provide rude/blunt responses its not that they think the user is stupid. It's because they can tell that the user hasn't put very much effort into solving the problem themselves. In those cases if the user had provided goals, chronologically listed what resources/approaches they've used, and added adequate relevant data about the problem; many authors would be more than willing to help. 
