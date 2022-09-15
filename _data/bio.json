@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "bkimcode", "url": "http://github.com/bkimcode" },
+      { "network": "github", "username": "bkimcode", "url": "https://github.com/bkimcode" },
       { "network": "linkedin", "username": "Benjamin Kim", "url": "https://linkedin.com/in/benjamin-kim-97799071/" }
     ]
   },
@@ -35,16 +35,13 @@
       "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
       "startDate": "2020-09-01",
-      "endDate": "Spring 2023",
-      "courses": [
-      ]
+      "endDate": "Spring 2023"
     }
   ],
   "work": [
     {
       "company": "First Hawaiian Bank",
       "position": "Terminal Programmer",
-      "website": "",
       "startDate": "2018-06-30",
       "endDate": "2018-08-12",
       "summary": "set-up and programmed terminals",
@@ -55,7 +52,6 @@
     {
       "company": "PBS",
       "position": "Data Entry",
-      "website": "",
       "startDate": "2018-06-01",
       "endDate": "2018-07-15",
       "summary": "Entering new data and updating current data to be paperless",
