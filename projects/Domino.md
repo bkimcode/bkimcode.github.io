@@ -19,4 +19,4 @@ I worked on implementing a driver class that would read in a text file containin
 
 This project taught me how to approach algorithm implementation and gave me a better understanding of recursive backtracking. Recursive backtracking can seem pretty intuitive, but actual utilization proved to be difficult and was a big roadblock for me to get over. 
 
-Source: [DominoSearch]([https://github.com/bkimcode/bkimcode.github.io/blob/main/projects/DominoSearch](https://github.com/bkimcode/bkimcode.github.io/tree/main/projects/%20DominoSearch))
+Source: [DominoSearch](https://github.com/bkimcode/bkimcode.github.io/blob/main/projects/DominoSearch)
