@@ -10,6 +10,7 @@ labels:
   - Coding Standards
 ---
 <img width="200px" class="rounded float-start pe-4" src="../img/coding_standard_header.png">
+
 ## Are coding standards even needed today?
 
 Coding standards used to be very strict due to limitations such as memory, and only having access to punch cards or command lines. But with the vast amounts of memory available for modern day computers, coupled with the intelligent IDE's that pretty much auto format code for you, it really makes you  wonder if coding standards are still necessary. When I first started programming, I was in the camp of *loose coding standards* primarily because I just didn't understand why it was so important. My thought process generally went *I don't need to have good coding standards cause I can just press format code when I'm done*. Now if you're only working with small projects that have at most maybe 50 lines, sure coding standards probably don't mean much, but once you move past that point, it becomes incredibly important.
