@@ -4,7 +4,7 @@ type: essay
 title: "Framesworks make the brain work"
 # All dates must be YYYY-MM-DD format!
 date: 2022-10-06
-published: false
+published: true
 labels:
   - UI Frameworks
   - Web Development
