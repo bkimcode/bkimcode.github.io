@@ -6,43 +6,25 @@ title: "Framesworks make the brain work"
 date: 2022-10-06
 published: false
 labels:
-  - Engineering
+  - UI Frameworks
+  - Web Development
+  - Bootstrap
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/bootstrap-logo.png">
 
 ## What are UI Frameworks and how do they work?
 
+UI Frameworks are a set of tools that are convenient for experienced developers and a great resources for web developers that have limited knowledge. For example, Bootstrap which is the most used UI framework, allow developers to use pre-built functions so that they don't have to start from scratch. Similar to how header files work in other programming languages, bootstrap is essentially a super library that has a combination of html, css, and js coupled together with framework foundations. 
 
+## Should you use UI Frameworks over raw HTML and CSS?
 
-## Why should you use UI Frameworks over raw HTML and CSS
+UI Frameworks are a great tool for developers, but I don't think people should use them when just starting out. The reason being that if you don't have fundamental knowledge of html and css, it will probably be extremely difficult to understand. A good way to think about UI Frameworks is like a backup camera on a car. Sure it does make things easier, and if you know how to drive you will find it extremely convenient. But you probably shouldn't be using it while you're learning to drive, or rather relying on it while learning to drive. 
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+## When is it best to use Bootstrap over raw HTML and CSS?
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+After all thats been said about UI Frameworks you would think that it would be applicable for every situation in the context of web development, but there are still situation in where you should consider using raw HTML and CSS. Because of how popular UI Frameworks such as Bootstrap are, websites that are developed using such tools tend to look very similar. Using pure HTML and CSS can lead to more creative designs, but readability and scalability can be an issue. So in general if you are in a pinch, or working collaboratively with other developers you should definetely consider implementing UI Frameworks through your development process.
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+## Final thoughts on UI Frameworks
 
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+UI Frameworks are a great tool for experienced developers to use, but new developers should be warned that implemenetation of such frameworks can be difficult as there is a learning curve to understanding how they work, especially if you don't particularly enjoy front-end development. If you use UI Frameworks with the intention of learning how they actually work you will have a great time, but just trying to plug and play with them can lead to frustration and diminishing returns. 
