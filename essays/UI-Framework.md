@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Framesworks make the brain work"
+title: "Framesworks Make The Brain Work"
 # All dates must be YYYY-MM-DD format!
 date: 2022-10-06
 published: true
