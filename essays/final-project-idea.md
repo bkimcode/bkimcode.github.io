@@ -39,4 +39,9 @@ Mockup Page Ideas:
 - Implement a ban/lockout feature for users that maliciously post or are hacked.
 - Implement asynchronous updating
 
-
+Collaborators:
+Hubert Liang
+Weihao He 
+Sydnee You
+Mark Pascual
+Benjamin Kim
