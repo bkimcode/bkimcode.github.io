@@ -40,8 +40,8 @@ Mockup Page Ideas:
 - Implement asynchronous updating
 
 Collaborators:
-Hubert Liang
-Weihao He 
-Sydnee You
-Mark Pascual
+Hubert Liang,
+Weihao He, 
+Sydnee You,
+Mark Pascual,
 Benjamin Kim
