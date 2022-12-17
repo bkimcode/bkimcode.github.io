@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/UH-Broadcast-Logo.png
+image: img/UH-Broadcast-Logo-Square.png
 title: "UH-Broadcast"
-date: 2019
+date: 2022
 published: true
 labels:
   - Meteor
