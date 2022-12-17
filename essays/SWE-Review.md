@@ -24,4 +24,3 @@ Having strong communication skills is important for Software Engineers because y
 ## How can Software Engineers adapt to changes in requirements and technology?
 
 Although the answer to this question might seem straight forward (be open to learning everything that's new) there are tools and skills that Software Engineers can utilize that can help prepare them for changes. Understanding the strength and differences of different programming paradigms and how they are implemented is a good way maintain flexibility. Programming paradigms such as Functional Programming can improve modularity, testability, concurrency, and simplicity of code by allowing you to express complex problems as manageable functions. Software Engineers can also utilize smart Integrated Development Environments(IDE) such as IntelliJ which can help drastically improve efficiency with programming.
-
