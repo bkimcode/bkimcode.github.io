@@ -23,7 +23,7 @@ Outside of web programming, usage of JavaScript is still very prevalent which is
 
 ## Applications of JavaScript in Software Engineering, Athletic SE/WODS 
 
-Although JavaScript is not very viable for back-end development, it's incredibly important for front-end,full-stack, and devops teams. So I'd argue that because of how important it is in regard to back-end development, it is vital for software engineers to learn. Use of JavaScript for Athletic SE in WODS is a great way to effectively learn and apply JavaScript. The pressure of the WODS has personally helped me tackle one of my weaknesses which is overthinking solutions to simple problems. The WODS are also very similar to blackboard interviews scenarios and coding competitions such as [Google kickstart](https://codingcompetitions.withgoogle.com/kickstart/faq) both of which now allow JavaScript.  
+Although JavaScript is not very viable for back-end development, it's incredibly important for front-end,full-stack, and devops teams. So I'd argue that because of how important it is in regard to back-end development, it is vital for software engineers to learn. Use of JavaScript for Athletic SE in WODS is a great way to effectively learn and apply JavaScript. The pressure of the WODS has personally helped me tackle one of my weaknesses which is overthinking solutions to simple problems. The WODS are also very similar to blackboard interview scenarios and coding competitions such as [Google kickstart](https://codingcompetitions.withgoogle.com/kickstart/faq) both of which now allow JavaScript.  
 
 ## So should you only learn JavaScript?
 
