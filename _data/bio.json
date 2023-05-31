@@ -1,13 +1,13 @@
 {
   "basics": {
     "name": "Benjamin Kim",
-    "label": "Student",
+    "label": "Software Engineer",
     "picture": "https://github.com/bkimcode.png",
-    "email": "bekim3@hawaii.edu",
+    "email": "benkimcode@gmail.com",
     "phone": "808-389-0782",
     "website": "https://bkimcode.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Summer, 2022.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "Diligent and motivated software engineer with a strong work ethic, actively seeking a rewarding full-time role to leverage my expertise and abilities for ongoing advancement and growth.",
+    "location": { "address": "", "postalCode": "96825", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "bkimcode", "url": "https://github.com/bkimcode" },
       { "network": "linkedin", "username": "Benjamin Kim", "url": "https://linkedin.com/in/benjamin-kim-97799071/" }
@@ -16,8 +16,8 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Mobile App Development" },
-    { "name": "Deployment Automation" },
-    { "name": "Machine Learning" }
+    { "name": "CI/CD" },
+    { "name": "PAAS" }
   ],
   "skills": [
     {
@@ -32,18 +32,18 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2023)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2020-09-01",
-      "endDate": "Summer 2022"
+      "endDate": "Summer 2023"
     }
   ],
   "work": [
     {
       "company": "First Hawaiian Bank",
       "position": "Terminal Programmer",
-      "startDate": "2018-06-30",
-      "endDate": "2018-08-12",
+      "startDate": "2017-06-30",
+      "endDate": "2017-08-12",
       "summary": "set-up and programmed terminals",
       "highlights": [
         "on-site terminal installation"
